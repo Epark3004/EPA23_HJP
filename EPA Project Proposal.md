@@ -1,9 +1,11 @@
 # EPA FINAL PROJECT PROPOSAL #
 
 
-∙ For Students enrolled in OPIC class for Summer English intensive program - beginners
-∙ To improve their fluency in speaking English
-∙ Creating a github page for students to practice speaking English freely and evaluate their own proficiency
+🎠 For Students enrolled in OPIC class for Summer English intensive program - beginners
+
+🎠 To improve their fluency in speaking English
+
+🎠 Creating a github page for students to practice speaking English freely and evaluate their own proficiency
 
 ## The coding package needed is as follows: 
 1.	Converting speech of students into text using STT technology
